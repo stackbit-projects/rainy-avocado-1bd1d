@@ -9,7 +9,7 @@ seo:
   extra: []
 layout: page
 ---
-<https://calendar.google.com/calendar/embed?src=eof5b9m23o8oh6k1p2s8a5adq0%40group.calendar.google.com&ctz=Europe%2FBerlin>
+
 
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
